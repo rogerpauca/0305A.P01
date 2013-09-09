@@ -1,0 +1,10 @@
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+c:\users\compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Compaq\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\convertidor.Form2.resources
